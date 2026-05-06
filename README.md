@@ -11,15 +11,15 @@ RAG 학습 실습 자료를 주차별로 정리하는 저장소입니다.
 
 ## Current Mapping
 
-- `week01_search-basics`: 코사인 유사도와 검색 기초
-- `week02_chunking`: 텍스트 청킹 실습
+- `week01`: 코사인 유사도와 검색 기초, RAG 기초 개념
+- `week02`: 텍스트 청킹 실습
 
 ## Usage Rule
 
 각 주차는 아래 구조를 기본으로 사용합니다.
 
 ```text
-weekXX_topic/
+weekXX/
   README.md
   notes.md
   practice/

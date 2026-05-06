@@ -26,6 +26,6 @@
 
 ## Next Action
 
-- `practice/week01_rag_foundations.ipynb`를 읽고 용어 흐름 정리
+- `practice/week01.ipynb`를 읽고 용어 흐름 정리
 - `practice/search_basic.ipynb`로 벡터 유사도 감각 보강
 - 2주차에서 chunk size와 overlap을 직접 바꿔 보며 비교

@@ -14,6 +14,6 @@ RAG를 처음 공부하는 사람이 기업 환경의 보안 맥락까지 포함
 
 ## Files
 
-- `practice/week01_rag_foundations.ipynb`
+- `practice/week01.ipynb`
 - `practice/search_basic.ipynb`
 - `notes.md`
